@@ -4,6 +4,6 @@
 # NETGEAR-BZV # NETGEAR-BZV   # MT7621  #
 ##################################################################
 
-CFLAGS += -DBOARD_NETGEAR_BZV
+CFLAGS += -DBOARD_R6800
 BOARD_NUM_USB_PORTS=2
 CONFIG_BOARD_RAM_SIZE=256
